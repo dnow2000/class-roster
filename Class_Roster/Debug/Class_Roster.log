@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Daphne Orme\Desktop\Class_Roster\main.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Daphne Orme\Desktop\Class_Roster\roster.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Class_Roster.vcxproj -> C:\Users\Daphne Orme\Desktop\Class_Roster\Debug\Class_Roster.exe
